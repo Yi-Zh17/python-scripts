@@ -1,0 +1,22 @@
+instance of
+logo image
+part of the series
+genre
+publisher
+country of origin
+language of work or name
+publication date
+composer
+distributed by
+review score
+units sold
+developer
+platform
+software engine
+game mode
+distribution format
+ESRB rating
+official website
+Epic Games Store ID
+ESRB game ID
+Game UI Database ID
