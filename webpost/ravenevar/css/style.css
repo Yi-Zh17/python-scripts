@@ -1,0 +1,153 @@
+.bg {
+	background-image: url("/img/background.jpg");
+}
+
+body {
+	background-image: url("/img/patt.png");
+	background-color: rgb(35, 35, 35);
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	overflow: auto;
+}
+
+p {
+	text-indent: 2em;
+	color: rgb(200, 200, 200);
+	font-family: Kaiti;
+	font-size: 25px;
+	line-height: 2em;
+}
+
+h1 {
+	display: inline;
+	font-size: 40px;
+	font-weight: normal;
+}
+
+#logo{
+	position: relative;
+	top: 20px;
+	width: 60px;
+	height: 60px;
+	margin-left: 20px;
+}
+
+li {
+	display: inline;
+	margin: 10px;
+}
+
+a {
+	color: rgb(237, 197, 0);
+	font-family: STXinwei;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+#menu1 {
+	margin-top: 50px;
+	margin-left: 550px;
+	margin-bottom: 10px;
+}
+
+div.hline1{
+	height: 1.5px;
+	width: 960px;
+	background-color: rgb(237, 197, 0);
+}
+
+h2 {
+	padding-top: 50px;
+	font-family: STXinwei;
+	text-align: center;
+	font-size: 50px;
+	color: rgb(200, 200, 200);
+}
+
+.container1 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	background-color: rgba(255, 255, 255, 0.05);
+	width: 960px;
+	height: auto 0px;
+}
+
+.text {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.footer {
+	height: 120px;
+	background-color: rgba(10, 10, 10, 0.5);
+	padding: 10px;
+	text-align: center;
+}
+
+.menu2 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 60px;
+}
+
+li.other {
+	display: none;
+}
+
+#menu2list {
+	padding: 0px;
+	text-align: left;
+	list-style-type: circle;
+}
+
+.sublist {
+	font-size: 18px;
+
+}
+
+#logobottom {
+	margin-left: 50px;
+	height: 120px;
+	width: 120px;
+}
+
+.date {
+	margin-left: 700px;
+	font-family: monotype corsiva;
+	font-size: 30px;
+	color: rgb(200, 200, 200);
+}
+
+form {
+	margin: 0 auto;
+	width: 720px;
+	padding: 1em;
+	border: 3px solid rgb(200, 200, 200);
+	border-radius: 1em;
+	text-align: right;
+}
+
+textarea {
+	font-size: 1.5em;
+	font-family: Kaiti;
+	width: 660px;
+	padding: 0.5em;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+
+input {
+	width: 80px;
+	height: 40px;
+	font-family: Kaiti;
+	font-size: 1.5em;
+	margin-right: 30px;
+	border-radius: 1em;
+}
+
+#eng {
+	font-family: "Times New Roman";
+}
